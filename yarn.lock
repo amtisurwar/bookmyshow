@@ -686,9 +686,9 @@
   integrity sha1-CnCVreoGckPOMoPhtWuKj0U7JCo=
 
 "@hapi/hoek@8.x.x", "@hapi/hoek@^8.3.0":
-  version "8.5.0"
-  resolved "https://registry.npm.taobao.org/@hapi/hoek/download/@hapi/hoek-8.5.0.tgz?cache=0&sync_timestamp=1578622506810&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Fhoek%2Fdownload%2F%40hapi%2Fhoek-8.5.0.tgz#2f9ce301c8898e1c3248b0a8564696b24d1a9a5a"
-  integrity sha1-L5zjAciJjhwySLCoVkaWsk0amlo=
+  version "8.5.1"
+  resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-8.5.1.tgz#fde96064ca446dec8c55a8c2f130957b070c6e06"
+  integrity sha512-yN7kbciD87WzLGc5539Tn0sApjyiGHAJgKvG9W8C7O+6c7qmoQMfVs0W4bX17eqz6C78QJqqFrtgdK5EWf6Qow==
 
 "@hapi/joi@^15.0.3":
   version "15.1.1"
@@ -4720,6 +4720,11 @@ mkdirp@^0.5.1:
   integrity sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
   dependencies:
     minimist "0.0.8"
+
+moment@^2.24.0:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 morgan@^1.9.0:
   version "1.9.1"
